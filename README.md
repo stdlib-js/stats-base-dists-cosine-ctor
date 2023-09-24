@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import Cosine from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine-ctor@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-cosine-ctor/tags). For example,
+
+```javascript
 import Cosine from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine-ctor@v0.1.0-esm/index.mjs';
 ```
 
@@ -297,7 +302,7 @@ y = cosine.quantile( 1.9 );
 <body>
 <script type="module">
 
-import Cosine from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine-ctor@v0.1.0-esm/index.mjs';
+import Cosine from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine-ctor@esm/index.mjs';
 
 var cosine = new Cosine( 2.0, 4.0 );
 
