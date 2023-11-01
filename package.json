@@ -51,7 +51,7 @@
     "@stdlib/stats-base-dists-cosine-pdf": "^0.1.0",
     "@stdlib/stats-base-dists-cosine-quantile": "^0.1.0",
     "@stdlib/stats-base-dists-cosine-skewness": "^0.1.1",
-    "@stdlib/stats-base-dists-cosine-stdev": "^0.1.0",
+    "@stdlib/stats-base-dists-cosine-stdev": "^0.1.1",
     "@stdlib/stats-base-dists-cosine-variance": "^0.1.1",
     "@stdlib/string-format": "^0.1.1",
     "@stdlib/utils-define-nonenumerable-read-only-accessor": "^0.1.1",
