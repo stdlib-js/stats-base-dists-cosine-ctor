@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import Cosine from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine-ctor@esm/index.mjs';
+import Cosine from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine-ctor@v0.2.1-esm/index.mjs';
 ```
 
 #### Cosine( \[mu, s] )
@@ -297,7 +297,7 @@ y = cosine.quantile( 1.9 );
 <body>
 <script type="module">
 
-import Cosine from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine-ctor@esm/index.mjs';
+import Cosine from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine-ctor@v0.2.1-esm/index.mjs';
 
 var cosine = new Cosine( 2.0, 4.0 );
 
